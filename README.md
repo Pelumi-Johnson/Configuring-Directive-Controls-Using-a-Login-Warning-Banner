@@ -1,6 +1,9 @@
 # 🧭 Configuring Directive Controls Using a Login Warning Banner
 
-![Badge](https://img.shields.io/badge/Directive%20Control-Login%20Banner%20%7C%20Compliance-yellow?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Directive%20Control-Login%20Banner%20%7C%20Compliance-orange?style=for-the-badge)
+
+📄 **Full Lab Report:**  
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/-Configuring-Detective-Controls-for-Object-Access-Activity-Windows-Auditing-Lab-/blob/main/Configuring%20Detective%20Controls%20for%20Object%20Access%20Activity.pdf)
 
 ## 📌 Lab Overview
 This lab demonstrates the implementation of a **directive security control** by configuring a
